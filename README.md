@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ignacio Such (You can just call me Igna!). Welcome to my Git ^^. 
+- 👋 Hi, I’m Ignacio Such. Welcome to my Git :). 
 - 👀 I am a Spanish Data Scientist, who is thrilled about ML, DL and Data Science itself.
 - 🌱 I’m currently learning Data Science, ML and DL algorythms and implementation in Python and R.
 - 📫 How to reach me: (English/Spanish preferred)
